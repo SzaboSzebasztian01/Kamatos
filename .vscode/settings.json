@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src", "test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\Desktop\\SzSz.JavaS\\Library\\junit\\junit-jupiter-api-5.9.2.jar",
+        "c:\\Users\\diak\\Desktop\\SzSz.JavaS\\Library\\junit\\junit-platform-console-standalone-1.9.2.jar"
+    ]
+}
